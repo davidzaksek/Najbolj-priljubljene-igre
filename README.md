@@ -5,7 +5,7 @@ Steam (https://store.steampowered.com/search/?sort_by=_ASC&filter=topsellers)
 
 
 
-Za vsako igro bom zajel:
+##Za vsako igro bom zajel:
 
 *Naslov
 
@@ -20,7 +20,7 @@ Za vsako igro bom zajel:
 
 
 
-Hipoteze:
+##Hipoteze:
 
 *Kateri razvijalci imajo najboljše ocenjene igre?
 
